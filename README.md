@@ -4,17 +4,13 @@
 
 <h2><br style="font-family: IBM Plex Mono, monospace;">About me</br></h2>
 <br>
-<p style="font-family: IBM Plex Mono, monospace;">
-  I'm a 26-year-old web developer with a passion for programming. With five years of experience in the field, I've delved deep into the world of web development and programming, constantly seeking new challenges and opportunities for growth. 
-</p>
 
-<p style="font-family: IBM Plex Mono, monospace;">
-  As a graduate in Database Management Technology, I bring a unique perspective to my work, combining my knowledge of database management with my skills in web development. This blend of expertise allows me to create dynamic and efficient web solutions that are both user-friendly and scalable. 
-</p>
+### I'm a 26-year-old web developer with a passion for programming. With five years of experience in the field, I've delved deep into the world of web development and programming, constantly seeking new challenges and opportunities for growth. 
 
-<p style="font-family: IBM Plex Mono, monospace;">
-I thrive on the creative process of bringing ideas to life through code, whether it's crafting responsive user interfaces or optimizing database performance. Each project presents its own set of challenges, and I enjoy the problem-solving aspect of programming, always striving to find elegant and effective solutions.
-</p>
+### As a graduate in Database Management Technology, I bring a unique perspective to my work, combining my knowledge of database management with my skills in web development. This blend of expertise allows me to create dynamic and efficient web solutions that are both user-friendly and scalable. 
+
+### I thrive on the creative process of bringing ideas to life through code, whether it's crafting responsive user interfaces or optimizing database performance. Each project presents its own set of challenges, and I enjoy the problem-solving aspect of programming, always striving to find elegant and effective solutions.
+
 
 <br><br>
 
