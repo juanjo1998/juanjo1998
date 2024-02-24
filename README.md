@@ -3,7 +3,6 @@
 <br>
 
 <h2><br style="font-family: IBM Plex Mono, monospace;">About me</br></h2>
-<br>
 
 #### I'm a 26-year-old web developer with a passion for programming. With five years of experience in the field, I've delved deep into the world of web development and programming, constantly seeking new challenges and opportunities for growth. 
 
