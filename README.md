@@ -10,9 +10,6 @@
 
 #### I thrive on the creative process of bringing ideas to life through code, whether it's crafting responsive user interfaces or optimizing database performance. Each project presents its own set of challenges, and I enjoy the problem-solving aspect of programming, always striving to find elegant and effective solutions.
 
-
-<br><br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h2 style="font-family: IBM Plex Mono, monospace;"><b>Front-end</b></h2>
